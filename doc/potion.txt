@@ -44,4 +44,10 @@ Section 6: Changelog                               *PotionChangelog*
 ====================================================================
 Section 7: Credits                                   *PotionCredits*
 
+Pretty much written by Steve Losh, I just changed a few things.
+Wrote this while working through Learn Vimscript The Hard Way,
+which can be found here:
+
+http://learnvimscriptthehardway.stevelosh.com/
+
  vim:tw=69:ts=8:ft=help:norl:
